@@ -1,0 +1,5 @@
+manim
+numpy
+moviepy
+edge-tts
+gTTS
