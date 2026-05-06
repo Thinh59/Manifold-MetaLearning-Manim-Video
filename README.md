@@ -26,3 +26,5 @@ Sau đó chạy lần lượt các script:
 1. **Tạo Video (Manim):** `manim -pql src_video/manifold_3b1b_style_1.py ManifoldMetaLearningFlow`
 2. **Tạo Audio (TTS):** `python src_video/generate_audio_1.py`
 3. **Ghép Video & Audio:** `python src_video/merge_video_v2_1.py`
+
+## Video: [Youtube](https://youtu.be/ooIuS76dxA0?si=PPMGe1yxU2nTW1xP)
